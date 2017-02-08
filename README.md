@@ -1,6 +1,6 @@
 # Simple wumpus world
 ##[Demo](https://rawgit.com/moved0311/wumpus/master/src/index.html)
-##[Demo{:target="_blank"}](https://rawgit.com/moved0311/wumpus/master/src/index.html) 
+
 ### control
 ![keyboard](res/keyboard.jpg)
 
